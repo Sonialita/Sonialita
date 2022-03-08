@@ -1,6 +1,5 @@
 ### Hi there / Hola / Hallo👋
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Home Office
 - 🌱 I’m currently learning JavaScript
