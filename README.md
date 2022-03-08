@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**Sonialita/Sonialita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there / Hola / Hallo👋
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Home Office
+- 🌱 I’m currently learning JavaScript
+- 👯 I’m looking to collaborate on Open Source Projects
+- 🤔 I’m looking for help with JS
+- 💬 Ask me about myself
+- 📫 How to reach me: sonia.oquendo@gmail.com
+- 😄 Pronouns: she/her
+
+
